@@ -29,9 +29,8 @@ while True:
             connection.sendall(read_file)
             print("sending file...")
             read_file = file.read(10 ^ 24)
-
+            
         file.close()
-
         print(f"no more data from{client_address}")
         break
 
