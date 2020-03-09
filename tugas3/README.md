@@ -5,4 +5,4 @@ Progjar B
 Tujuan: Mengunduh beberapa file dari source yang berbeda secara bersamaan menggunakan Thread. <br>
 
 Hasil:<br>
-!["Hasil"]()
+![Hasil](https://github.com/shellaagn/progjar-b-its-2020/blob/master/tugas3/img/Hasil.JPG)
